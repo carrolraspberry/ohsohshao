@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://loiquaphou.darkpixel.dev/sitemap.xml
